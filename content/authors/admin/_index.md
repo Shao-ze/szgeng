@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: 耿少泽
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shaoze Geng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shaoze
+last_name: Geng
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/his
 
 # Status emoji
 status:
@@ -20,21 +20,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate student in astrophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National Astronomical Observatories, CAS
+    url: https://www.bao.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ISM, Star Formation and Galaxy Pairs.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:astro.gengsz@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/BuildLore
